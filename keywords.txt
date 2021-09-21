@@ -1,0 +1,1 @@
+"Apple OR iPhone OR @Apple OR @AppleUS OR @AppleMobileUS OR @AppleMobile (battery OR charg OR camera OR iphone OR smartphone OR mobile OR device OR display OR screen OR watch) -T-mobile -peacockTV -Peacock -Microsoft -surface -giveaway -Pixel -Unboxing -protector -Trump -apple -Samsung -LG -motorola -surface -filter:retweets"  
